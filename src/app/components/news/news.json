@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "title": "Lakers Defeat Warriors in Thrilling Overtime",
+      "summary": "The Lakers emerged victorious in an intense overtime battle against the Warriors.",
+      "body": "In an electrifying game that went into overtime, the Los Angeles Lakers secured a 115-112 victory over the Golden State Warriors. LeBron James led the Lakers with 34 points, while Anthony Davis contributed 27 points and 12 rebounds. Stephen Curry scored 40 points for the Warriors, but it wasn't enough to clinch the win.",
+      "author": "Sports Reporter",
+      "publicationDate": "2024-06-10T10:00:00Z",
+      "tags": ["Lakers", "Warriors", "Overtime"],
+      "imageUrl": "https://example.com/lakers-vs-warriors.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Bulls Trade Rumors: Potential Moves Before the Deadline",
+      "summary": "The Chicago Bulls are exploring potential trades ahead of the upcoming trade deadline.",
+      "body": "With the trade deadline approaching, the Chicago Bulls are rumored to be exploring several trade options to strengthen their roster. Possible targets include experienced point guards and versatile forwards. Fans and analysts are speculating on the potential impact of these trades on the Bulls' playoff chances.",
+      "author": "Basketball Insider",
+      "publicationDate": "2024-06-09T15:30:00Z",
+      "tags": ["Bulls", "Trade Rumors", "Deadline"],
+      "imageUrl": "https://example.com/bulls-trade-rumors.jpg"
+    }
+  ]

@@ -1,0 +1,28 @@
+[
+    {
+      "id": 5678,
+      "home_team": {
+        "id": 100,
+        "name": "Los Angeles Lakers"
+      },
+      "away_team": {
+        "id": 101,
+        "name": "Golden State Warriors"
+      },
+      "date": "2024-10-25",
+      "time": "19:30:00 PST"
+    },
+    {
+      "id": 5679,
+      "home_team": {
+        "id": 102,
+        "name": "Boston Celtics"
+      },
+      "away_team": {
+        "id": 103,
+        "name": "Miami Heat"
+      },
+      "date": "2024-10-26",
+      "time": "17:00:00 EST"
+    }
+  ]

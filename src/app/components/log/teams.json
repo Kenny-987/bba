@@ -1,0 +1,102 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Lions",
+      "games_played": 20,
+      "wins": 15,
+      "losses": 5,
+      "points_scored": 1850,
+      "points_against": 1700,
+      "points": 30
+    },
+    {
+      "team_id": 2,
+      "team_name": "Tigers",
+      "games_played": 20,
+      "wins": 14,
+      "losses": 6,
+      "points_scored": 1820,
+      "points_against": 1650,
+      "points": 28
+    },
+    {
+      "team_id": 3,
+      "team_name": "Bears",
+      "games_played": 20,
+      "wins": 13,
+      "losses": 7,
+      "points_scored": 1800,
+      "points_against": 1600,
+      "points": 26
+    },
+    {
+      "team_id": 4,
+      "team_name": "Wolves",
+      "games_played": 20,
+      "wins": 12,
+      "losses": 8,
+      "points_scored": 1780,
+      "points_against": 1620,
+      "points": 24
+    },
+    {
+      "team_id": 5,
+      "team_name": "Hawks",
+      "games_played": 20,
+      "wins": 11,
+      "losses": 9,
+      "points_scored": 1750,
+      "points_against": 1655,
+      "points": 22
+    },
+    {
+      "team_id": 6,
+      "team_name": "Eagles",
+      "games_played": 20,
+      "wins": 10,
+      "losses": 10,
+      "points_scored": 1720,
+      "points_against": 1700,
+      "points": 20
+    },
+    {
+      "team_id": 7,
+      "team_name": "Sharks",
+      "games_played": 20,
+      "wins": 9,
+      "losses": 11,
+      "points_scored": 1680,
+      "points_against": 1710,
+      "points": 18
+    },
+    {
+      "team_id": 8,
+      "team_name": "Panthers",
+      "games_played": 20,
+      "wins": 8,
+      "losses": 12,
+      "points_scored": 1650,
+      "points_against": 1690,
+      "points": 16
+    },
+    {
+      "team_id": 9,
+      "team_name": "Rhinos",
+      "games_played": 20,
+      "wins": 7,
+      "losses": 13,
+      "points_scored": 1600,
+      "points_against": 1750,
+      "points": 14
+    },
+    {
+      "team_id": 10,
+      "team_name": "Dragons",
+      "games_played": 20,
+      "wins": 6,
+      "losses": 14,
+      "points_scored": 1580,
+      "points_against": 1800,
+      "points": 12
+    }
+  ]

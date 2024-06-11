@@ -1,0 +1,26 @@
+[
+    {
+      "team_id": 1,
+      "team_name": "Lions",
+      "wins": 15,
+      "losses": 5,
+      "points_scored": 1850,
+      "points_against": 1700
+    },
+    {
+      "team_id": 2,
+      "team_name": "Tigers",
+      "wins": 14,
+      "losses": 6,
+      "points_scored": 1820,
+      "points_against": 1650
+    },
+    {
+      "team_id": 3,
+      "team_name": "Bears",
+      "wins": 13,
+      "losses": 7,
+      "points_scored": 1800,
+      "points_against": 1600
+    }
+  ]

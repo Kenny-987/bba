@@ -1,0 +1,29 @@
+[
+    {
+      "player_id": 1,
+      "player_name": "John Doe",
+      "team_name": "Lions",
+      "games_played": 20,
+      "points_per_game": 25.4,
+      "rebounds_per_game": 10.2,
+      "assists_per_game": 7.1
+    },
+    {
+      "player_id": 2,
+      "player_name": "Jane Smith",
+      "team_name": "Tigers",
+      "games_played": 20,
+      "points_per_game": 22.8,
+      "rebounds_per_game": 8.5,
+      "assists_per_game": 6.3
+    },
+    {
+      "player_id": 3,
+      "player_name": "Bob Johnson",
+      "team_name": "Bears",
+      "games_played": 20,
+      "points_per_game": 20.5,
+      "rebounds_per_game": 9.7,
+      "assists_per_game": 5.6
+    }
+  ]
