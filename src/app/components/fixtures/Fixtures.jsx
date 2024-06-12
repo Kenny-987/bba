@@ -8,9 +8,9 @@ const Fixtures = () => {
     {/* fixtures */}
     <div className={styles.fixtures_box}>
         <h3>Upcoming Fixtures</h3>
-    {fixtures.map((fixture)=>{
+    {fixtures.map((fixture,index)=>{
       return ( 
-       <div className={styles.fixture}>
+       <div className={styles.fixture} key={index}>
        <p className={styles.date}>{fixture.date} <span className={styles.mobileTime}>{fixture.time}</span></p>
        <div className={styles.teams_box}>
        <p className={styles.teams}><span>{fixture.home_team.name}</span> vs <span>{fixture.away_team.name}</span></p>

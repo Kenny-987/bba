@@ -7,7 +7,7 @@ const Topplayer = () => {
         <div className="top-players">
 
         {players.map((player)=>{
-            return  <div className="playercard">
+            return  <div className="playercard" key={player.player_id}>
             <h3>{player.player_name}</h3>
             <p>Team: <span>{player.team_name}</span></p>
             <p>Games played: <span>{player.games_played}</span></p>
