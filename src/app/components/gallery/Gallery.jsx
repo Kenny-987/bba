@@ -16,17 +16,17 @@ const Gallery = () => {
 <div className="gallery">
         <div className="gallery-item">
           <Image src={image1} alt="{image.title}" />
-          <div className="title">title</div>
+          <div className="title">Image title one</div>
         </div>
         <div className="gallery-item">
           <Image src={image2} alt="{image.title}" />
-          <div className="title">title</div>
+          <div className="title">Image title two</div>
         </div><div className="gallery-item">
           <Image src={image3} alt="{image.title}" />
-          <div className="title">2023 season</div>
+          <div className="title">Image title three</div>
         </div><div className="gallery-item">
           <Image src={image2} alt="{image.title}" />
-          <div className="title">Matchday 5</div>
+          <div className="title">Image title four</div>
         </div>
     </div>
 
